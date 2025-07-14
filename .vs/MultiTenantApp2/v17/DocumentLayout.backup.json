@@ -1,0 +1,509 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576A3973-17BF-4A59-8017-0694637EA429}|Application\\Application.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\application\\interfaces\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576A3973-17BF-4A59-8017-0694637EA429}|Application\\Application.csproj|solutionrelative:application\\interfaces\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576A3973-17BF-4A59-8017-0694637EA429}|Application\\Application.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576A3973-17BF-4A59-8017-0694637EA429}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576A3973-17BF-4A59-8017-0694637EA429}|Application\\Application.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576A3973-17BF-4A59-8017-0694637EA429}|Application\\Application.csproj|solutionrelative:application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576A3973-17BF-4A59-8017-0694637EA429}|Application\\Application.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576A3973-17BF-4A59-8017-0694637EA429}|Application\\Application.csproj|solutionrelative:application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576A3973-17BF-4A59-8017-0694637EA429}|Application\\Application.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576A3973-17BF-4A59-8017-0694637EA429}|Application\\Application.csproj|solutionrelative:application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|solutionrelative:api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|solutionrelative:api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576A3973-17BF-4A59-8017-0694637EA429}|Application\\Application.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\application\\features\\employees\\queries\\createemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576A3973-17BF-4A59-8017-0694637EA429}|Application\\Application.csproj|solutionrelative:application\\features\\employees\\queries\\createemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDBAABB-D30B-4074-A65C-D39E1227D9D0}|src{0DDBAABB-D30B-4074-A65C-D39E1227D9D0}|C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{0DDBAABB-D30B-4074-A65C-D39E1227D9D0}|src{0DDBAABB-D30B-4074-A65C-D39E1227D9D0}|solutionrelative:Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07440DBC-202D-455F-BBE1-473AC50665B4}|Infrastructure\\Infrastructure.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\infrastructure\\data\\applicationdbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07440DBC-202D-455F-BBE1-473AC50665B4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07440DBC-202D-455F-BBE1-473AC50665B4}|Infrastructure\\Infrastructure.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07440DBC-202D-455F-BBE1-473AC50665B4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07440DBC-202D-455F-BBE1-473AC50665B4}|Infrastructure\\Infrastructure.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07440DBC-202D-455F-BBE1-473AC50665B4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07440DBC-202D-455F-BBE1-473AC50665B4}|Infrastructure\\Infrastructure.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\infrastructure\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07440DBC-202D-455F-BBE1-473AC50665B4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|solutionrelative:api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\api\\exceptions\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|solutionrelative:api\\exceptions\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA9EB55-D30B-4ABA-9AF3-7BDB60DC43B6}|Core\\Core.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\core\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA9EB55-D30B-4ABA-9AF3-7BDB60DC43B6}|Core\\Core.csproj|solutionrelative:core\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA9EB55-D30B-4ABA-9AF3-7BDB60DC43B6}|Core\\Core.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA9EB55-D30B-4ABA-9AF3-7BDB60DC43B6}|Core\\Core.csproj|solutionrelative:core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA9EB55-D30B-4ABA-9AF3-7BDB60DC43B6}|Core\\Core.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA9EB55-D30B-4ABA-9AF3-7BDB60DC43B6}|Core\\Core.csproj|solutionrelative:core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576A3973-17BF-4A59-8017-0694637EA429}|Application\\Application.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\application\\features\\employees\\queries\\getemployeeslisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576A3973-17BF-4A59-8017-0694637EA429}|Application\\Application.csproj|solutionrelative:application\\features\\employees\\queries\\getemployeeslisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576A3973-17BF-4A59-8017-0694637EA429}|Application\\Application.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\application\\features\\employees\\queries\\getemployeebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576A3973-17BF-4A59-8017-0694637EA429}|Application\\Application.csproj|solutionrelative:application\\features\\employees\\queries\\getemployeebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576A3973-17BF-4A59-8017-0694637EA429}|Application\\Application.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\application\\features\\employees\\command\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576A3973-17BF-4A59-8017-0694637EA429}|Application\\Application.csproj|solutionrelative:application\\features\\employees\\command\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07440DBC-202D-455F-BBE1-473AC50665B4}|Infrastructure\\Infrastructure.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07440DBC-202D-455F-BBE1-473AC50665B4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|solutionrelative:api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07440DBC-202D-455F-BBE1-473AC50665B4}|Infrastructure\\Infrastructure.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\infrastructure\\migrations\\20250713193630_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07440DBC-202D-455F-BBE1-473AC50665B4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250713193630_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|c:\\users\\vivek\\source\\repos\\multitenantapp2\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8B8EE3B-583D-4C74-A7B5-804A1F541C32}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Application\\Interfaces\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ICurrentUserService.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Application\\Interfaces\\ICurrentUserService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ICurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:16:43.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:16:41.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Application\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Application\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:16:37.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:16:34.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Application\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Application\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:16:31.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-13T19:39:00.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAFwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T20:44:02.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAhwDEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T20:15:09.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T20:15:33.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateEmployeeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Application\\Features\\Employees\\Queries\\CreateEmployeeHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Employees\\Queries\\CreateEmployeeHandler.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Application\\Features\\Employees\\Queries\\CreateEmployeeHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Employees\\Queries\\CreateEmployeeHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAxwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:04:48.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:21:01.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Infrastructure\\Data\\ApplicationDbContextSeed.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContextSeed.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Infrastructure\\Data\\ApplicationDbContextSeed.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContextSeed.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:58:05.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Readme.md",
+              "RelativeDocumentMoniker": "Readme.md",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Readme.md",
+              "RelativeToolTip": "Readme.md",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAG4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-14T07:33:06.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-13T19:33:02.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Infrastructure\\Services\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\CurrentUserService.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Infrastructure\\Services\\CurrentUserService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\CurrentUserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:22:21.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwB0AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:54:52.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:12:58.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "APIException.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\Exceptions\\APIException.cs",
+              "RelativeDocumentMoniker": "API\\Exceptions\\APIException.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\Exceptions\\APIException.cs",
+              "RelativeToolTip": "API\\Exceptions\\APIException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:14:33.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Core\\Entities\\Tenant.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Tenant.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Core\\Entities\\Tenant.cs",
+              "RelativeToolTip": "Core\\Entities\\Tenant.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:20:33.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Core\\Entities\\Employee.cs",
+              "RelativeToolTip": "Core\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:20:25.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Core\\Entities\\User.cs",
+              "RelativeToolTip": "Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:39:57.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetEmployeesListHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Application\\Features\\Employees\\Queries\\GetEmployeesListHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Employees\\Queries\\GetEmployeesListHandler.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Application\\Features\\Employees\\Queries\\GetEmployeesListHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Employees\\Queries\\GetEmployeesListHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:19:42.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetEmployeeByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Application\\Features\\Employees\\Queries\\GetEmployeeByIdHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Employees\\Queries\\GetEmployeeByIdHandler.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Application\\Features\\Employees\\Queries\\GetEmployeeByIdHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Employees\\Queries\\GetEmployeeByIdHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:19:34.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Application\\Features\\Employees\\Command\\CreateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Employees\\Command\\CreateEmployeeCommand.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Application\\Features\\Employees\\Command\\CreateEmployeeCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Employees\\Command\\CreateEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:04:33.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-13T20:47:06.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAWwA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T19:25:29.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\WeatherForecast.cs",
+              "RelativeToolTip": "API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:20:55.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250713193630_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Infrastructure\\Migrations\\20250713193630_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250713193630_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\Infrastructure\\Migrations\\20250713193630_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250713193630_InitialCreate.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T19:37:09.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\MultiTenantApp2\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-13T19:28:20.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

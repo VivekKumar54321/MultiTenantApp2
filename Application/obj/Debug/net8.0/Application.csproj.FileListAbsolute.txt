@@ -1,0 +1,15 @@
+C:\Users\vivek\source\repos\MultiTenantApp2\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\vivek\source\repos\MultiTenantApp2\Application\bin\Debug\net8.0\Application.dll
+C:\Users\vivek\source\repos\MultiTenantApp2\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\vivek\source\repos\MultiTenantApp2\Application\bin\Debug\net8.0\Core.dll
+C:\Users\vivek\source\repos\MultiTenantApp2\Application\bin\Debug\net8.0\Core.pdb
+C:\Users\vivek\source\repos\MultiTenantApp2\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\vivek\source\repos\MultiTenantApp2\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek\source\repos\MultiTenantApp2\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\vivek\source\repos\MultiTenantApp2\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\vivek\source\repos\MultiTenantApp2\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\vivek\source\repos\MultiTenantApp2\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\vivek\source\repos\MultiTenantApp2\Application\obj\Debug\net8.0\Application.dll
+C:\Users\vivek\source\repos\MultiTenantApp2\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\vivek\source\repos\MultiTenantApp2\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\vivek\source\repos\MultiTenantApp2\Application\obj\Debug\net8.0\ref\Application.dll
